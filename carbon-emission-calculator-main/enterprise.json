@@ -1,0 +1,112 @@
+{
+    "empresas": [
+        {
+            "nome": "Mangual",
+            "estado": "São Paulo",
+            "cidade": "São Paulo",
+            "dados": {
+                "setor": "Industria",
+                "funcionarios": 25,
+                "gasto combustivel": 645.120,
+                "combustivel": "Diesel",
+                "gasto energia": 7000,
+                "energia solar": "Não",
+                "distribuicao funcionarios": "Majoritariamente presencial",
+                "vendas frete": 100, 
+                "peso frete": 16000,
+                "localizacao consumidor": 25, 
+                "co2 emitido": 3001
+            }
+        },
+        {
+            "nome": "R.E.O Speed",
+            "estado": "Rio Grande do Sul",
+            "cidade": "Cicarão",
+            "dados": {
+                "setor": "Varejo",
+                "funcionarios": 50,
+                "gasto combustivel": 110,
+                "combustivel": "Gás Natural",
+                "gasto energia": 5000,
+                "energia solar": "gereção propria",
+                "distribuicao funcionarios": "Majoritariamente presencial",
+                "vendas frete": 250, 
+                "peso frete": 0,
+                "localizacao consumidor": 14, 
+                "co2 emitido": 102
+                }
+        },
+        {
+            "nome": "Bacaraju ",
+            "estado": "Rio de Janeiro",
+            "cidade": "Nova Iguaçu",
+            "setor": "Serviços",
+            "dados": {
+                "funcionarios": 55,
+                "gasto combustivel": 130220,
+                "combustivel": "Etanol",
+                "gasto energia": 10500,
+                "energia solar": "Não",
+                "distribuicao funcionarios": "Hibrido",
+                "vendas frete": 0, 
+                "peso frete": 0,
+                "localizacao consumidor": 0, 
+                "co2 emitido": 17
+            }
+        },
+        {
+            "nome": "Jumaçadi",
+            "estado": "São Paulo",
+            "cidade": "Barueri",
+            "setor": "Industria",
+            "dados": {
+                "funcionarios": 250,
+                "gasto combustivel": 2480210,
+                "combustivel": "Gasolina",
+                "gasto energia": 10500,
+                "energia solar": "Não",
+                "distribuicao funcionarios": "Presencial",
+                "vendas frete": 1500, 
+                "peso frete": 220,
+                "localizacao consumidor": 15, 
+                "co2 emitido": 223
+            }
+        },
+        {
+            "nome": "Carabujão",
+            "estado": "São paulo",
+            "cidade": "Caragua",
+            "setor": "Varejo",
+            "dados": {
+                "funcionarios": 41,
+                "gasto combustivel": 340,
+                "combustivel": "Etanol",
+                "gasto energia": 600,
+                "energia solar": "Sim",
+                "distribuicao funcionarios": "Majoritariamente presencial",
+                "vendas frete": 60, 
+                "peso frete": 0,
+                "localizacao consumidor": 65, 
+                "co2 emitido": 32
+            }
+        },
+        {
+            "nome": "Magolão",
+            "estado": "Serjipe",
+            "cidade": "Maragua",
+            "setor": "Serviços",
+            "dados": {
+                "funcionarios": 60,
+                "gasto combustivel": 250,
+                "combustivel": "Diesel",
+                "gasto energia": 2000,
+                "energia solar": "Não",
+                "distribuicao funcionarios": "Hibrido",
+                "vendas frete": 30, 
+                "peso frete": 0,
+                "localizacao consumidor": 25, 
+                "co2 emitido": 181
+            }
+        }
+    ]
+}
